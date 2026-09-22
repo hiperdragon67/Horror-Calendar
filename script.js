@@ -382,7 +382,7 @@ const month = 9; // October (January = 0)
 // Put a number from 1 to 31 to simulate that day.
 // Use null to use the real date.
 
-const testDay = 31;
+const testDay = null;
 
 const today = new Date();
 
