@@ -7,7 +7,7 @@ const movies = [
     {
         day: 1,
         title: "Scream",
-        image: "images/scream.jpg",
+        image: "Images/scream.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ9E377ZDvzm1vRk3F4VS63MGTQcrFNYwWRk",
         year: 1996,
         duration: "1h 51m",
@@ -18,7 +18,7 @@ const movies = [
     {
         day: 2,
         title: "Saw",
-        image: "images/saw.jpg",
+        image: "Images/saw.jpg",
         link: "http://e.pc.cd/qL6y6alK",
         year: 2004,
         duration: "1h 43m",
@@ -29,7 +29,7 @@ const movies = [
     {
         day: 3,
         title: "Let sleeping corpses lie",
-        image: "images/Let-sleeping-corpses-lie.jpg",
+        image: "Images/Let-sleeping-corpses-lie.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZW7G77ZiEbg118pAUyUxNRQGHvd0LNVzBnV",
         year: 1974,
         duration: "1h 35m",
@@ -40,7 +40,7 @@ const movies = [
     {
         day: 4,
         title: "Final Destination",
-        image: "images/final-destination.jpg",
+        image: "Images/final-destination.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZoO377Zef9YMOuCJ1Y78Ycs6S5wRpsPynQV",
         year: 2000,
         duration: "1h 38m",
@@ -51,7 +51,7 @@ const movies = [
     {
         day: 5,
         title: "The Cabin in the Woods",
-        image: "images/the-cabin-in-the-woods.jpg",
+        image: "Images/the-cabin-in-the-woods.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ8U377Z4G6X7st0wU5wRBgGx8lPHfQtIYQy",
         year: 2011,
         duration: "1h 35m",
@@ -62,7 +62,7 @@ const movies = [
     {
         day: 6,
         title: "Sinister",
-        image: "images/sinister.jpg",
+        image: "Images/sinister.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZeU377ZiGT2CmHVNF7aj1pgfeDrEHBA7Euk",
         year: 2012,
         duration: "1h 50m",
@@ -73,7 +73,7 @@ const movies = [
     {
         day: 7,
         title: "The Ring",
-        image: "images/the-ring.jpg",
+        image: "Images/the-ring.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZzI377Zd1rgt8bs65uDb6PItxt82pMwodxX",
         year: 2002,
         duration: "1h 55m",
@@ -84,7 +84,7 @@ const movies = [
     {
         day: 8,
         title: "Hell House LLC",
-        image: "images/hell-house-llc.jpg",
+        image: "Images/hell-house-llc.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ8I377ZXC5hu3V4nYHldkxzDnAWPYa9beUV",
         year: 2015,
         duration: "1h 33m",
@@ -95,7 +95,7 @@ const movies = [
     {
         day: 9,
         title: "Hereditary",
-        image: "images/Hereditary.jpg",
+        image: "Images/Hereditary.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZya377ZPRoqa2GQEUSyoIBD4bhqt5pQpYSk",
         year: 2018,
         duration: "2h 8m",
@@ -106,7 +106,7 @@ const movies = [
     {
         day: 10,
         title: "Fear Street",
-        image: "images/fear-street.jpg",
+        image: "Images/fear-street.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZeI377ZuYNIUvhLPJBlq7GtR0DBvpfVtHgV",
         year: 2021,
         duration: "1h 47m",
@@ -117,7 +117,7 @@ const movies = [
     {
         day: 11,
         title: "The Collector",
-        image: "images/the-collector.jpg",
+        image: "Images/the-collector.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZnA377ZfTg5pF0HgEB2z2J46ONvWuFD8uXV",
         year: 2009,
         duration: "1h 28m",
@@ -128,7 +128,7 @@ const movies = [
     {
         day: 12,
         title: "The Strangers",
-        image: "images/the-strangers.jpg",
+        image: "Images/the-strangers.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZdA377ZbdOqxg1r7HQe0iYnJtc8CYUG7XkV",
         year: 2008,
         duration: "1h 26m",
@@ -139,7 +139,7 @@ const movies = [
     {
         day: 13,
         title: "Oculus",
-        image: "images/oculus.jpg",
+        image: "Images/oculus.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZoa377Z78qXYjQiss4ux8dlpIRfChERBX3X",
         year: 2013,
         duration: "1h 44m",
@@ -150,7 +150,7 @@ const movies = [
     {
         day: 14,
         title: "The Purge",
-        image: "images/the-purge.jpg",
+        image: "Images/the-purge.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZh3377ZfGeXFTbh0nSsCQikyA5cHb7mFC0k",
         year: 2013,
         duration: "1h 25m",
@@ -161,7 +161,7 @@ const movies = [
     {
         day: 15,
         title: "It",
-        image: "images/it.jpg",
+        image: "Images/it.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZh7G77ZHBDeTlwxEpYbGcts7oNv7Bc2QUqk",
         year: 2017,
         duration: "2h 15m",
@@ -172,7 +172,7 @@ const movies = [
     {
         day: 16,
         title: "Ouija: Origin of Evil",
-        image: "images/ouija-origin-of-evil.jpg",
+        image: "Images/ouija-origin-of-evil.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZpyG77ZUK45mgYD3mHqabLFVIkR4f86Qrjy",
         year: 2016,
         duration: "1h 39m",
@@ -183,7 +183,7 @@ const movies = [
     {
         day: 17,
         title: "M3GAN",
-        image: "images/m3gan.jpg",
+        image: "Images/m3gan.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZQyG77ZqQVkMkljHfjUWPHHImJ3ORMgGFOX",
         year: 2022,
         duration: "1h 42m",
@@ -194,7 +194,7 @@ const movies = [
     {
         day: 18,
         title: "Clown in a Cornfield",
-        image: "images/clown-in-a-cornfield.jpg",
+        image: "Images/clown-in-a-cornfield.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ1v377ZyRGIlVdIJqBdTcQ1cxrKh5DEvxl7",
         year: 2025,
         duration: "1h 35m",
@@ -205,7 +205,7 @@ const movies = [
     {
         day: 19,
         title: "Insidious",
-        image: "images/Insidious.jpg",
+        image: "Images/Insidious.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZp2G77ZSTMmFzbOB4f5znv7QatzVjSfu9ty",
         year: 2011,
         duration: "1h 42m",
@@ -216,7 +216,7 @@ const movies = [
     {
         day: 20,
         title: "Backrooms",
-        image: "images/Backrooms.jpg",
+        image: "Images/Backrooms.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZtVG77ZsJbQpmIgO0HhKboYc5H54YpDyY5X",
         year: 2026,
         duration: "1h 51m",
@@ -227,7 +227,7 @@ const movies = [
     {
         day: 21,
         title: "Cobweb",
-        image: "images/cobweb.jpg",
+        image: "Images/cobweb.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZy7G77ZFJLO0U7tlqhLss7Jnp2fyuAd9qtk",
         year: 2023,
         duration: "1h 28m",
@@ -238,7 +238,7 @@ const movies = [
     {
         day: 22,
         title: "Rec",
-        image: "images/Rec.jpg",
+        image: "Images/Rec.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ8FG77ZIJDaNw3A9tQh3iPG9Votez7NMqiX",
         year: 2007,
         duration: "1h 15m",
@@ -249,7 +249,7 @@ const movies = [
     {
         day: 23,
         title: "Antlers",
-        image: "images/antlers.jpg",
+        image: "Images/antlers.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ34G77ZAgv3z3I0G5HWOxkrrRuBTVTXhClk",
         year: 2021,
         duration: "1h 39m",
@@ -260,7 +260,7 @@ const movies = [
     {
         day: 24,
         title: "Immaculate",
-        image: "images/immaculate.jpg",
+        image: "Images/immaculate.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZERG77ZXHegf4avJ9hV6d9JDjP2uV5FqxCV",
         year: 2024,
         duration: "1h 29m",
@@ -271,7 +271,7 @@ const movies = [
     {
         day: 25,
         title: "Paranormal activity",
-        image: "images/paranormal-activity.jpg",
+        image: "Images/paranormal-activity.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZcQG77ZUBXuxhR9MekB11nPIE4jhfDtHFhk",
         year: 2007,
         duration: "1h 26m",
@@ -282,7 +282,7 @@ const movies = [
     {
         day: 26,
         title: "The Conjuring",
-        image: "images/The Conjuring.jpg",
+        image: "Images/The Conjuring.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZjYG77Zw0GwedRxGELl1wLynjBj0YNX19N7",
         year: 2013,
         duration: "1h 52m",
@@ -293,7 +293,7 @@ const movies = [
     {
         day: 27,
         title: "Trick 'r Treat",
-        image: "images/trick-r-treat.jpg",
+        image: "Images/trick-r-treat.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZhYG77Z94pENUw5CSbDTuh1rmYeMJ2nMGjk",
         year: 2007,
         duration: "1h 22m",
@@ -304,7 +304,7 @@ const movies = [
     {
         day: 28,
         title: "Scary Stories to Tell in the Dark",
-        image: "images/scary-stories.jpg",
+        image: "Images/scary-stories.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZeYG77ZTmiw1rbWrbp0P4UksjsOCVloyNsV",
         year: 2019,
         duration: "1h 51m",
@@ -315,7 +315,7 @@ const movies = [
     {
         day: 29,
         title: "In a Violent Nature",
-        image: "images/in-a-violent-nature.jpg",
+        image: "Images/in-a-violent-nature.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZsyG77Zxj2FyWG1nMQsLqoMe0kvqBFgJYXX",
         year: 2024,
         duration: "1h 34m",
@@ -326,7 +326,7 @@ const movies = [
     {
         day: 30,
         title: "Coraline",
-        image: "images/coraline.jpg",
+        image: "Images/coraline.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZ2SG77Z9uQiDXyK25kBCGblaCeeVkwzOVNV",
         year: 2009,
         duration: "1h 40m",
@@ -337,7 +337,7 @@ const movies = [
     {
         day: 31,
         title: "Heretic",
-        image: "images/Heretic.jpg",
+        image: "Images/Heretic.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZmjG77ZWcMpt36S8NfY06uovF3Ql0gRhQVV",
         year: 2024,
         duration: "1h 51m",
@@ -382,7 +382,7 @@ const month = 9; // October (January = 0)
 // Put a number from 1 to 31 to simulate that day.
 // Use null to use the real date.
 
-const testDay = 15;
+const testDay = 31;
 
 const today = new Date();
 
