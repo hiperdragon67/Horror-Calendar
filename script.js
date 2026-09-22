@@ -18,7 +18,7 @@ const movies = [
     {
         day: 2,
         title: "Saw",
-        image: "Images/saw.jpg",
+        image: "Images/Saw.jpg",
         link: "http://e.pc.cd/qL6y6alK",
         year: 2004,
         duration: "1h 43m",
@@ -260,7 +260,7 @@ const movies = [
     {
         day: 24,
         title: "Immaculate",
-        image: "Images/immaculate.jpg",
+        image: "Images/Immaculate.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZERG77ZXHegf4avJ9hV6d9JDjP2uV5FqxCV",
         year: 2024,
         duration: "1h 29m",
@@ -271,7 +271,7 @@ const movies = [
     {
         day: 25,
         title: "Paranormal activity",
-        image: "Images/paranormal-activity.jpg",
+        image: "Images/Paranormal-activity.jpg",
         link: "https://e.pcloud.link/publink/show?code=XZcQG77ZUBXuxhR9MekB11nPIE4jhfDtHFhk",
         year: 2007,
         duration: "1h 26m",
